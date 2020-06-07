@@ -1,6 +1,6 @@
 Session Type: AnyConnect
 Username     : johndoe12              Index        : 38847
-Assigned IP  : 10.10.123.123          Public IP    : 24.24.24.24
+Assigned IP  : 10.10.123.123          Public IP    : 2001:db8:91::7
 Assigned IPv6: 2001:DB8:1234:1::5678
 Protocol     : AnyConnect-Parent SSL-Tunnel DTLS-Tunnel
 License      : AnyConnect Premium

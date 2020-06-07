@@ -4,7 +4,7 @@ parsed_sample:
     username: "johndoe12"
     index: "38847"
     assigned_ip: "10.10.123.123"
-    public_ip: "24.24.24.24"
+    public_ip: "2001:db8:91::7"
     assigned_ipv6: "2001:DB8:1234:1::5678"
     protocol: "AnyConnect-Parent SSL-Tunnel DTLS-Tunnel"
     license: "AnyConnect Premium"
